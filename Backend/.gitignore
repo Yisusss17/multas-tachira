@@ -1,0 +1,9 @@
+# Dependencias pesadas (se vuelven a instalar en el servidor)
+node_modules/
+
+# Variables de entorno con contraseñas secretas
+.env
+
+# Archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
